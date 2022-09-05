@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+simple_calculator/__pycache__/
+tests/__pycache__/
+venv/
+conftest.py
+.DS_Store
